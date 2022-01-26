@@ -1,0 +1,5 @@
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb

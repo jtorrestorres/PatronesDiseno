@@ -1,0 +1,5 @@
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\ALIEN22\Documents\JESUS TORRES TORRES\SOLUCIONES_SESION\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
